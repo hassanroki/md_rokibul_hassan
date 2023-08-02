@@ -40,3 +40,15 @@ a:hover{
 img{
     width: 100%;
 }
+
+/* Navbar Start */
+.navbar .nav-link{
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.navbar .nav-link:hover{
+    color: var(--color-brand);
+}
+/* Navbar End */
