@@ -1,0 +1,18 @@
+/* Min Width 992px */
+
+@media screen and ( min-width: 992px ){
+/* Navbar Start*/
+.navbar{
+    min-height: 100vh;
+    width: var(--sidebar-width);
+    background: linear-gradient(rgba(3, 63, 71, .8), rgba(3, 63, 71, .8)), url(../images/sidebar-img.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar-brand img{
+    border: 8px solid var(--color-brand);
+}
+
+/* Navbar End*/
+}
