@@ -15,4 +15,11 @@
 }
 
 /* Navbar End*/
+
+/* Content Wrapper Start*/
+#content-wrapper{
+    padding-left: var(--sidebar-width);
+
+}
+/* Content Wrapper End */
 }
