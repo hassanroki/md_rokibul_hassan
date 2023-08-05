@@ -26,7 +26,11 @@
 
 /* Min Width 360px */
 @media screen and ( max-width: 360px ) {
+    .btn{
+        padding: 12px 20px;
+    }
+
     .btn-brand, .link-custom{
-        font-size: 12px;
+        font-size: 14px;
     }
 }
