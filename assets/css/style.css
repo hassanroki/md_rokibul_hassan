@@ -140,4 +140,18 @@ img{
 
 /* Services */
 
+/* Work */
+.card-custom .card-custom-img{
+    overflow: hidden;
+}
+
+.card-custom .card-custom-img img{
+    transition: all 0.4s ease;
+}
+
+.card-custom:hover .card-custom-img img{
+    transform: scale(1.1);
+}
+/* Work */
+
 /* Wrapper Content End */
