@@ -170,10 +170,6 @@ img{
     color: var(--color-body);
 }
 
-.social-icons{
-
-}
-
 .social-icons a{
     width: 40px;
     height: 40px;
@@ -186,5 +182,11 @@ img{
 }
 
 /* Contact */
+
+/* Skills */
+.progress .progress-bar{
+    font-size: 16px;
+}
+/* Skills */
 
 /* Wrapper Content End */
